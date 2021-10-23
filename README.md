@@ -17,4 +17,4 @@ Electronic Vote app codded in pure PHP
 # Run the app
 
 Just locate app in htdocs folder from XAMPP and run the browser.
-Don't forget to change config specs from DB and email.
+Don't forget to change config specs from DB.
