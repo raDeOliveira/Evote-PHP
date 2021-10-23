@@ -8,5 +8,5 @@ Electronic Vote app codded in hard PHP
 * create events;
 * create voters;
 * modify events;
-
-
+* password strength check by Bootstrap modal;
+* 
