@@ -1,7 +1,12 @@
 # Evote-PHP
-
-# Electronic Vote app codded in hard PHP
+Electronic Vote app codded in hard PHP
 
 # Features
-* liveSearch();
-* 
+* live search;
+* invitation event email;
+* vote confirmation email;
+* create events;
+* create voters;
+* modify events;
+
+
