@@ -1,0 +1,109 @@
+#start_voting {
+    padding-left: 330px;
+    padding-top: 100px;
+}
+
+#form_index {
+    padding-top: 100px;
+}
+
+/* custom style */
+.width-30-percent {
+    width:30%;
+}
+
+.margin-1em-zero {
+    margin:1em 0;
+}
+
+.margin-top-40{
+    margin-top:40px;
+}
+
+.text-align-center{
+    text-align:center;
+}
+
+
+/* custom CSS colors */
+#custom-color-table {
+    background-color: #bfd7ea;
+}
+
+#custom-color-navbar {
+    background-color: #508ca4;
+}
+
+#custom-color-navbar2 {
+    background-color: #508ca4;
+}
+
+.nav-link:hover {
+    filter: grayscale(0%) opacity(1);
+    background: #bfd7ea;
+}
+
+#search_text {
+    border: #508ca4 solid;
+}
+
+#create-event-button {
+    width: 100%;
+    background-color: #508ca4;
+}
+
+#create-voter-button {
+    background-color: #508ca4;
+}
+
+#create-back-button {
+    background-color: #508ca4;
+}
+
+#plus-candidate-voter {
+    background-color: #508ca4;
+}
+
+
+
+/* password strength check custom CSS */
+ #message {
+     line-height: 0px;
+     display:none;
+     background: #508ca4;
+     color: #000;
+     position: relative;
+     padding: 20px;
+ }
+
+#message p {
+    padding: 10px 35px;
+    font-size: 18px;
+}
+
+/* Add a green text color and a checkmark when the requirements are right */
+.valid {
+    color: green;
+}
+
+.valid:before {
+    position: relative;
+    left: -35px;
+    content: "✔";
+}
+
+/* Add a red text color and an "x" when the requirements are wrong */
+.invalid {
+    color: red;
+}
+
+.invalid:before {
+    position: relative;
+    left: -35px;
+    content: "✖";
+}
+
+/* modal custom CSS */
+.modal-footer button {
+    background-color: #508ca4;
+}
